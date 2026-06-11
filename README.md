@@ -498,7 +498,8 @@ let SUBINI = 'https://raw.githubusercontent.com/'+'cm'+'liu/ACL4SSR/main/'+'Cl'+
 
    Snippets全新界面 
 <img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/6473a97d-217b-415c-8198-6571e87f1add" />
-<img width="820" height="916" alt="image" src="https://github.com/user-attachments/assets/8639f7aa-8ece-4405-9199-278b483f183c" />
+<img width="820" height="916" alt="image" src="https://github.com/user-attachments/assets/8e25c78d-06ce-452c-b4d1-5f044d7775d9" />
+
 
 
 
