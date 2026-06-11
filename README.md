@@ -487,7 +487,8 @@ let SUBINI = 'https://raw.githubusercontent.com/'+'cm'+'liu/ACL4SSR/main/'+'Cl'+
 
 **Worker全新界面 / Snippets界面：**
 
-   Worker全新界面
+   Worker全新界面   
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/9116ae6e-3f98-45ab-9f65-0746dc6bfab7" />   
 <img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/c65f609d-60a0-49c7-8f82-bd66a1498478" />
 <img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/029905af-cad8-489d-bc7d-45946518832a" />
 <img width="1900" height="916" alt="image" src="https://github.com/user-attachments/assets/0f6793ad-afe0-43fa-bc69-c9ecff6ed0cc" />
